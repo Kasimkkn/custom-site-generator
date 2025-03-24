@@ -1,0 +1,64 @@
+❌ - incomplete or removed | ✅ - completed |  - doubts
+
+
+- ✅ import library should be on top and give one line space and then our custom import add.
+- Navbar Menu:
+    - ✅ While listing, the title label should be Navbar 1, Navbar 2, and so on. - [Apply for other modules too]
+    - ✅When trying to remove the button text C, it is giving error. It should be able to remove whole text and add new one. - [Check for all module too]
+    - ✅ In Navbar, add some top space to add card button, take it to right side and change the label to 'Add Menu'  - [Apply for other modules too]
+    - ✅ Card 1, Card 2 should be Menu 1, Menu 2 and so on - [Apply for other modules too]
+    - ✅ Change label 'Menu Name' instead of 'Navbar Menu Title' and Link instead of Navbar Menu Path
+    - ✅ edit should be like button with edit Icon + Label is Edit  - [Apply for other modules too]
+    - ✅ Give some padding at right between input form and scrollbar
+    - ✅ While delete, first alert user to confirmation  - [Apply for other modules too]
+    - ✅ While user clicks on Add button then needs to scroll at end to get access of last added menu  - [Apply for other modules too] - [Later]
+    - ❓ Validations  - [Apply for other modules too]
+    - empty field must be not saved 
+
+- Hero:
+    - ✅ Hero2's Get started button should be at center
+
+- About Us:
+    - ✅ read more button should be in camel case mode
+    - ✅ Add Card should be Add Count
+    - ✅ Instead of Card 1, it should be Count 1 and so on
+    - ❓ There are some different contents, should it will work? 
+
+- Services:
+    - ✅ Add card should be Add Service
+    - ✅ Instead of Card 1, it should be Service 1 and so on
+- Projects:
+    - ✅ The project description should show full isntead of ellipsis(...) or we need to open project detail modal so viewer can see the full description.
+    - ✅ Add Card should be Add Project
+    - ✅Instead of Card 1, it should be Project 1 and so on
+ 
+- Teams:
+    - ✅ Add Card should be Add Team Member
+    - ✅ Instead of Card 1, it should be Team Member 1 and so on
+    - ✅ Title should be Role
+    
+- Reviews:
+    - ✅ Add Card should be Add Review
+    - ✅ Instead of Card 1, it should be Review 1 and so on
+    - ✅ Title should be Role
+    - ✅We don't need social url, so we can remove it.
+    - ✅There are too much space between the reviews section and contact us section, reduce it.
+
+- Contact Us:
+    - ✅ ContactUsOne should be Contact Us 1 and So on.
+    - ✅ Add Card should be Add Contact
+    - ✅ Instead of Card 1, it should be Contact 1 and so on
+
+- Footer:
+    - ✅ Add link button should beside the first link inputs, with only icon of plus
+    - ✅ Also user can able to remove the particular url link, so add delete icon to each link
+    - ✅ Reduce the spaces between the urls top bottom, it's bit more.
+    - ✅ First layout has url fonts size bit large, reduce it.
+    - ✅ Also the copyright text font is big, reduce it too.
+    
+- Change page:
+    - ❓ Still need to manage some sections like our divine dev hub site sections manage.
+    - ✅ Contact us page has also about us section, which is wrong
+
+- ✅ Can we add a common hero image to abouts us, contact us and service page?
+- ✅ Settings panel should be like themes configuration change type, we will give the one setting button to one corner and user can change the color schemes. - [Will add font style and other configurations too]
